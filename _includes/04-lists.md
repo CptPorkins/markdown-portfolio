@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+youtube
+gaming
+shopping
+badminton
+archery
