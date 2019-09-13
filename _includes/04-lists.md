@@ -1,5 +1,5 @@
-*youtube
-gaming
-shopping
-badminton
-archery
+-youtube
+-gaming
+-shopping
+-badminton
+-archery
